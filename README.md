@@ -6,6 +6,6 @@
 
 **Bug and issue tracker for Fork git client**
 
-If you encountered a bug or have a feature request feel free to [create an issue (https://github.com/ForkIssues/Tracker/issues/new).
+If you encountered a bug or have a feature request feel free to [create an issue](https://github.com/ForkIssues/Tracker/issues/new).
 
 </div>

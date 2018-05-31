@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 [![logo](https://avatars1.githubusercontent.com/u/22393631?v=3&s=200)](https://git-fork.com)
 
 # [Fork - a fast and friendly git client for Mac](https://git-fork.com)

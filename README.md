@@ -1,6 +1,6 @@
 <div align="center">
 
-# [![logo](https://avatars1.githubusercontent.com/u/22393631?v=3&s=200)<br/>Fork](https://fork.dev)
+# [![logo](https://avatars1.githubusercontent.com/u/22393631?v=3&s=200)<br/>Fork](https://git-fork.com)
 
 ### Fast and friendly git client for Mac
 
